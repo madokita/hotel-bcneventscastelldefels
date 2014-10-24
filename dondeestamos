@@ -1,0 +1,45 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="расположение" href="/ru/situacion/">расположение</a></li>
+<li class="active"><a title="Где мы находимся" href="/ru/situacion/donde-estamos/">Где мы находимся</a></li>
+<li><a title="История" href="/ru/situacion/historia/">История</a></li>
+<li><a title="Культура" href="/ru/situacion/cultura/">Культура</a></li>
+<li><a title="Кухня" href="/ru/situacion/gastronomia/">Кухня</a></li>
+<li><a title="Shopping" href="/ru/situacion/shopping/">Шопинг</a></li>
+<li><a title="Развлечения" href="/ru/situacion/ocio/">Развлечения</a></li>
+<li><a title="Информационные ссылки" href="/ru/situacion/de-interes/">Информационные ссылки</a></li>
+</ul>
+</div>
+
+<div class="inner-content">
+<h2>Где мы находимся</h2>
+<h3 class="tagline">SB BCN Events: прекрасное расположение для знакомства с Кастельдефельдс</h3>
+
+<p>Транспортом до отеля:</p>
+<ul class="content-list">
+<li>На машине: мы находимся в 500 м от выезда 46 на шоссе C-32.</li>
+<li>Фитобус: линии L95, L96, L97, L99, N14 и N16 (ночной сервис) соединяют с различными пунктами как Кастельдефельдса, так и  Барселоны.</li>
+<li>Пароход: мы находимся в 15 км от пассажирского терминала Порта Барселоны.</li>
+<li>Поезд: Станция поездов находится в 15 минутах пешком. Каждые 10-15 проезжают поезда в направлении Барселоны.</li>
+<li>Самолет/Аэропорт El Prat: В 13 км от отеля (15 минут на машине).
+</li>
+<li>Автобус из аэропорта: линия <a title="L99 (Aeropuerto T1 - Avenida Constitución en Castelldefels)" href="http://www.castelldefels.com/cast/busnou/l99.htm" target="_blank">L99 (Аэропорт T1 - Avenida Constitución в Кастельдефельдс)</a> находится в  10 минутах ходьбы от отеля.</li>
+</ul>
+
+<div class="clearfix border-sep mrg1"></div>
+
+<h3>Координаты GPS</h3>
+<ul class="content-list">
+<li>Шир..: 41.285520 -- 41° 17' 7.87'' N</li>
+<li>Долг.: 1.989394 -- 1° 59' 21.82'' E</li>
+</ul>
+
+<div class="clearfix"></div>
+
+<div class="mapa">
+[GoogleMaps id="0" width="100%" height="350px" link_to_map="top"]
+[Ruta id="0" cuadrobusqueda="si" comollegar="Как добраться" textoboton="Ruta"]
+</div>
+<div class="clearfix mrg1"></div>
+
+</div>
