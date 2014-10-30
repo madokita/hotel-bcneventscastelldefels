@@ -1,0 +1,62 @@
+<div class="inner-content">
+<h2>Галерея отель SB BCN Events </h2>
+<h3>Hotel</h3>
+</div>
+
+<div class="inner-gallery">
+<div class="container">
+[nggallery id=30]
+</div>
+</div>
+
+<div class="inner-content">
+<h3>Номера</h3>
+</div>
+<div class="inner-gallery">
+<div class="container rooms_gallery">
+<h4>двухместный номер</h4>
+[nggallery id=31]
+<h4>двухместный номер+ ребенок</h4>
+[nggallery id=32]
+<h4>сьют</h4>
+[nggallery id=38]
+<h4>джакузи сьют</h4>
+[nggallery id=37]
+<h4>трехместный номер</h4>
+[nggallery id=39]
+<h4>семейный номер</h4>
+[nggallery id=36]
+</div>
+</div>
+
+<div class="inner-content">
+<h3>Воспользуйтесь услугами</h3>
+</div>
+
+<div class="inner-gallery">
+<div class="container">
+[nggallery id=33]
+</div>
+</div>
+
+<div class="inner-content">
+<h3>бизнес</h3>
+</div>
+
+<div class="inner-gallery">
+<div class="container">
+[nggallery id=34]
+</div>
+
+</div>
+
+<div class="inner-content">
+<h3>свадьбы</h3>
+</div>
+
+<div class="inner-gallery">
+<div class="container">
+[nggallery id=35]
+</div>
+
+</div>
