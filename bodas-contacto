@@ -1,0 +1,16 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Свадьбы" href="/ru/bodas/">Свадьбы</a></li>
+<li><a title="Залы" href="/ru/bodas/salones/">Залы</a></li>
+<li><a title="Услуги" href="/ru/bodas/servicios-bodas/">Услуги</a></li>
+<li class="active"><a title="Свадьбы" href="/ru/bodas/contacto-bodas/">Свадьбы</a></li>
+</ul>
+</div>
+
+
+<div class="inner-content">
+  <h2>Форма для заполнения</h2>
+  <h3 class="tagline">Вы хотите с нами связаться?</h3>
+  <p>Свяжитесь с нашим персоналом.</p>
+  [contact-form-7 id="4090" title="Bodas"]
+</div>

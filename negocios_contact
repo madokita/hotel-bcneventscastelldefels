@@ -1,0 +1,19 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Бизнес" href="/ru/negocios/">Бизнес</a></li>
+<li><a title="Конференц — залы" href="/ru/negocios/salas-de-reuniones/">Конференц — залы</a></li>
+<li><a title="Услуги" href="/ru/negocios/servicios-eventos/">Услуги</a></li>
+<li class="active"><a title="Контакты" href="/ru/negocios/contacto-eventos/">Контакты</a></li>
+</ul>
+</div>
+
+
+<div class="inner-content">
+  <h2>Форма для зхаполнения</h2>
+  <h3 class="tagline">Вы хотите с нами связаться?</h3>
+
+  <p>Свяжитесь с нашим персоналом</p>
+[contact-form-7 id="4089" title="Бизнес"]
+
+
+</div>

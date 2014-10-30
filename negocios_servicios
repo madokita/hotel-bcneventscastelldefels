@@ -1,0 +1,33 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Бизнес" href="/ru/negocios/">Бизнес</a></li>
+<li><a title="Конференц — залы" href="/ru/negocios/salas-de-reuniones/">Конференц — залы</a></li>
+<li class="active"><a title="Услуги" href="/ru/negocios/servicios-eventos/">Услуги</a></li>
+<li><a title="Контакты" href="/ru/negocios/contacto-eventos/">Контакты</a></li>
+</ul>
+</div>
+
+
+
+<div class="inner-content">
+  <div class="span4 no-ie hidden-phone">
+    [singlepic id="81"]
+  </div>
+  <div class="span8 right-div">
+  <h2>Обслуживание мероприятий</h2>
+  <p>El Hotel SB BCN Events le ofrece servicios exclusivos para satisfacer todas las necesidades de su evento.</p>
+<h3>Наслаждайтесь :</h3>
+  <div class="box-info">
+  <ul class="content-list two-col">
+    <li>Творческая & Рынок кухня , с учетом ваших потребностей</li>
+    <li>Оборудование последнего поколения</li>
+    <li>Технические специалисты</li>
+    <li>Плазменный телевизор</li>
+    <li>Бесплатная парковка для клиентов</li>
+    <li>Бесплатный WIFI</li>
+  </ul>
+  <div class="clearfix"></div>
+</div>
+</div>
+  <div class="clearfix"></div>
+</div>

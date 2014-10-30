@@ -1,0 +1,56 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Свадьбы" href="/ru/bodas/">Свадьбы</a></li>
+<li class="active"><a title="Залы" href="/ru/bodas/salones/">Залы</a></li>
+<li><a title="Услуги" href="/ru/bodas/servicios-bodas/">Услуги</a></li>
+<li><a title="Свадьбы" href="/ru/bodas/contacto-bodas/">Свадьбы</a></li>
+</ul>
+</div>
+
+
+
+<div class="inner-content row-fluid">
+<div class="span7">
+  <h2>Залы для свадеб</h2>
+  <p>Мы предлагаем идеальное место для Вашей свадьбы : большие комнаты мощности , все с естественным освещением , собственной службы общественного питания и персональное внимание к подготовке все детали с первого контакта до дня вашей свадьбы.</p>
+  <p>Мы подчеркиваем Castelldefels Lounge , открытое пространство в 410 м <sup> 2 </sup> , с естественным освещением , прямой доступ на террасу и бассейн, идеально подходит , чтобы начать с закуской , и продолжить празднование с лучшими идеями нашего кухня .</p>
+  <p>У нас есть небольшие комнаты , также с доступом к естественному свету и просторными террасами .</p>
+</div>
+
+<div class="span5 right-div">
+  <h3>Залы для свадеб</h3>
+<div class="meeting-rooms_box no-ie hidden-phone">
+      <div class="meeting-rooms_table">
+        <ul class="table-info name-list">
+          <li class="kind">Залы</li>
+          <li>поверхность</li>
+          <li>Театр</li>
+          <li>Аудитория</li>
+          <li>Банкетный</li>
+          <li>Коктейль</li>
+          <li>Стол «U»</li>
+        </ul>
+        <ul class="table-info">
+          <li class="kind">La Calma</li>
+          <li>175 m<sup>2</sup></li>
+          <li>80</li>
+          <li>60</li>
+          <li>80</li>
+          <li>90</li>
+          <li>50</li>
+        </ul>
+        <ul class="table-info">
+          <li class="kind">Castelldefels</li>
+          <li>410 m<sup>2</sup></li>
+          <li>425</li>
+          <li>220</li>
+          <li>300</li>
+          <li>450</li>
+          <li>90</li>
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+  </div>
+
+  <div class="clearfix"></div>
+</div>

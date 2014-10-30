@@ -1,0 +1,24 @@
+<div class="inner-content four-elements-menu">
+<h2 class="hidden-menu">Воспользуйтесь услугами</h2>
+<p class="hidden-menu">Бассейн, гастрономия, залы торжеств... Для вашего визита в Кастельдефельдс, по делам или для отдыха, отель SB BCN Events предложит полную гамму услуг и оборудования для вашего пребывания в полном комфорте. Надеемся, вам у нас понравится.</p>
+
+<a href="/ru/disfrute/servicios/" title="Услуги" class="other-secc">
+<h3>Услуги</h3>
+<img alt="Все услуги отеля" src="/files/mini_events-disfruta_servicios.jpg" />
+<p>Все услуги отеля</p>
+</a>
+
+<a href="/ru/disfrute/restaurante-664/" title="Ресторан 664" class="other-secc">
+<h3>Ресторан 664</h3>
+<img alt="Ресторан 664" src="/files/mini_events-restaurante.jpg" />
+<p>Средиземноморская кухня прямо с рынка</p>
+</a>
+
+<a href="/ru/disfrute/cocktail-bar/" title="Cocktail Bar" class="other-secc">
+<h3>Cocktail Bar</h3>
+<img alt="Cocktail Bar" src="/files/mini_events-cocktail.jpg" />
+<p>Для особого момента</p>
+</a>
+
+
+</div>
